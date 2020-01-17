@@ -1,9 +1,7 @@
 SSL CHeck monitor
 =============================
 
-A simple script that provide check SSL certificates to digital products.
-
-Write in ruby!.
+A simple script write in that provide check SSL certificates for your domains list.
 
 Getting started
 ---------------
@@ -12,7 +10,7 @@ Install Ruby and run it!.
 
 ### Start ###
 
-Starts the script.
+Starts the script and response how days you want verify.
 
     $ ruby certmonitor.rb
 
